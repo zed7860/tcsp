@@ -1,0 +1,10 @@
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^About\.html$ /about/ [R=301,L]
+RewriteRule ^Products\.html$ /products/ [R=301,L]
+RewriteRule ^Our-Works\.html$ /our-works/ [R=301,L]
+RewriteRule ^Contact\.html$ /contact/ [R=301,L]
+</IfModule>

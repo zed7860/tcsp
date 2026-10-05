@@ -1,0 +1,1 @@
+export function PageHeading({ label, title, text }: { label: string; title: string; text: string }) { return <section className="page-heading"><div className="container"><span className="eyebrow">{label}</span><h1>{title}</h1><p>{text}</p></div><span className="heading-ring" aria-hidden="true" /></section>; }

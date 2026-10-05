@@ -1,0 +1,15 @@
+# 2026 website photography prompts
+
+Generated with the built-in image generation tool. The PNG files are the full-quality generated assets; optimized WebP copies are used by the website.
+
+## Hero factory image
+
+Use case: photorealistic-natural. Asset type: wide website hero photograph for an Indian precast concrete manufacturer. Scene: a clean professional RCC pipe manufacturing yard in Karnataka, India, with rows of large reinforced concrete hume pipes, a modern orange mobile crane placing one pipe, and two workers wearing proper helmets and reflective safety vests at a safe distance. Style: premium architectural and industrial photography, completely realistic, authentic concrete texture, orderly facility, no staged stock-photo feeling. Composition: cinematic 16:9 landscape, strong visual subject on the right half, generous darker negative space on the left for white website headline. Lighting: warm early morning sunlight with controlled contrast. Color palette: charcoal, natural concrete grey, restrained safety orange. Constraints: physically plausible pipe sizes and lifting rigging, correct human anatomy, no visible brand logos, no text, no watermark, no fake signage, no surreal machinery.
+
+## Quality inspection image
+
+Use case: photorealistic-natural. Asset type: professional website About section photograph for an Indian precast concrete manufacturer. Scene: inside a clean working concrete products factory in Karnataka, a skilled Indian quality inspector in helmet and reflective vest measures a newly cast large RCC hume pipe while other concrete rings sit neatly in the background. Style: authentic premium industrial editorial photography, realistic skin and hands, accurate measuring tool and PPE, detailed concrete surface, no staged corporate poses. Composition: landscape 3:2, inspector and pipe clearly visible, depth and orderly production environment. Lighting: natural side light mixed with soft industrial light. Colors: concrete grey, charcoal, subtle safety orange. Constraints: no text, no logo, no watermark, no unsafe behavior, no distorted equipment or anatomy.
+
+## Custom precast site image
+
+Use case: photorealistic-natural. Asset type: professional website feature photograph for custom precast solutions. Scene: a modern Indian infrastructure project with newly installed precast concrete U drains, manhole rings and RCC pipes arranged accurately at a clean construction site; an Indian civil engineer in helmet reviews a plan with a site supervisor in the middle distance. Style: highly realistic premium construction photography, authentic materials, practical engineering detail, safe organized site. Composition: landscape 3:2, bold repeating precast geometry, suitable for a dark website section. Lighting: golden hour side light with rich contrast. Palette: concrete grey, charcoal, restrained orange safety details. Constraints: no text, no logo, no watermark, correct human anatomy, plausible installations, no fantasy architecture, no unsafe work.
